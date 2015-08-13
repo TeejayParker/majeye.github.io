@@ -1,8 +1,3 @@
-<?php 
-header('Access-Control-Allow-Origin: https://plug.dj'); 
-header('Content-Type: text/json'); 
-?>
-
 {
     "room": "FreeCodeCamp",
     "author": "Majeye",
