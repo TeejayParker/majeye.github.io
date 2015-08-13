@@ -1,8 +1,8 @@
 {
     "room": "FreeCodeCamp",
-    "author": "FreeCodeCamp",
+    "author": "Majeye",
     "icon": null,
-    "css": "https://www.dropbox.com/s/lzj3422632kpxxe/style.css",
+    "css": "https://raw.githubusercontent.com/Majeye/majeye.github.io/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -26,7 +26,7 @@
         "user": null
     },
     "images": {
-        "background": "http://i.imgur.com/BYs4GEd.jpg",
+        "background": "http://i.imgur.com/dv681ge.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
