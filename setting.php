@@ -1,7 +1,7 @@
 {
     "room": "FreeCodeCamp",
     "author": "Majeye",
-    "icon": null,
+    "icon": "http://i.imgur.com/SxOwLFq.png",
     "css": "https://raw.githubusercontent.com/Majeye/majeye.github.io/master/style.css",
     "rules": {
         "allowAutorespond": true,
