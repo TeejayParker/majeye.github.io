@@ -14,27 +14,27 @@
         "forceSmartVote":   false
     },
     "ccc": {
-        "admin":            "#FF0011",
-        "ambassador":       "#687C00",
-        "host":             "#E5B352",
-        "cohost":           "#FEDF9C",
-        "manager":          "#629C8D",
-        "bouncer":          "#A6BDBA",
-        "rdj":              "#A7DEF2",
-        "subscriber":       "#D9CF91",
+        "admin":            "#42A5DC",
+        "ambassador":       "#84B423",
+        "host":             "#F3508F",
+        "cohost":           "#F3508F",
+        "manager":          "#F3508F",
+        "bouncer":          "#F3508F",
+        "rdj":              "#5DB4FF",
+        "subscriber":       "#A1A6B3",
         "friend":           null,
-        "user":             "#FFFFFF"
+        "user":             "#8B92A3"
     },
     "images": {
         "background":       "http://i.imgur.com/1zklVSO.png",
         "playback":         null,
-        "admin":            null,
-        "ambassador":       null,
-        "host":             null,
-        "cohost":           null,
-        "manager":          null,
-        "bouncer":          null,
-        "rdj":              null,
-        "subscriber":       null
+        "admin":            "http://i.imgur.com/3COHnoU.png",
+        "ambassador":       "http://i.imgur.com/6WG3QM8.png",
+        "host":             "http://i.imgur.com/Wq0qMsX.png",
+        "cohost":           "http://i.imgur.com/AGadJPi.png",
+        "manager":          "http://i.imgur.com/XPXdhg9.png",
+        "bouncer":          "http://i.imgur.com/gp8ffVi.png",
+        "rdj":              "http://i.imgur.com/fCcZKyy.png",
+        "subscriber":       "http://i.imgur.com/TNkN404.png"
     }
 }
