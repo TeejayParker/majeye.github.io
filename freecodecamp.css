@@ -40,15 +40,13 @@
 /* Custom Badges */
 
 /* CamperBot */
-.id-9581769 .badge-box i.bdg {
+.id-9581769 i.bdg {
 	background-image: url('http://i.imgur.com/0ZfSOsS.jpg') !important;
-	background-size: cover;
  }
 
 /* Majeye */
-.id-4175902 .badge-box i.bdg {
+.id-4175902 i.bdg {
 	background-image: url('http://i.imgur.com/HQmru6m.gif') !important;
-	background-size: cover;
  }
 
 /* Room Bar / Meta */
