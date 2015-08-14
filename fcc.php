@@ -20,7 +20,7 @@
         "cohost":           "#FEDF9C",
         "manager":          "#629C8D",
         "bouncer":          "#A6BDBA",
-        "rdj":              "#C6E6F2",
+        "rdj":              "#A7DEF2",
         "subscriber":       "#D9CF91",
         "friend":           "#B4B638",
         "user":             "#FFFFFF"
