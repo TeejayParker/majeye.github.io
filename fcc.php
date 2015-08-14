@@ -37,4 +37,6 @@
         "rdj":              null,
         "subscriber":       null
     }
+    "autocomplete": [],
+    "emotes": null
 }
