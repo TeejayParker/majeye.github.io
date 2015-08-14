@@ -1,6 +1,11 @@
-.id-4175902 .badge-box i.bdg {
+#chat-messages .id-4175902 .badge-box i.bdg {
 	background-image: url(http://i.imgur.com/HQmru6m.gif) !important;
  	background-size: cover;
+}
+
+#chat-messages .id-4123271 .badge-box i.bdg {
+	background-image: url(http://chilloutmusic.fm/img/theme/Icons/3292657.gif);
+	background-size: cover;
 }
 
 /*.room-background {
