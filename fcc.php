@@ -22,7 +22,7 @@
         "bouncer":          "#A6BDBA",
         "rdj":              "#A7DEF2",
         "subscriber":       "#D9CF91",
-        "friend":           "#B4B638",
+        "friend":           null,
         "user":             "#FFFFFF"
     },
     "images": {
