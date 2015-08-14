@@ -1,12 +1,13 @@
-#chat-messages .id-4175902 .badge-box i.bdg {
-	background-image: url(http://i.imgur.com/HQmru6m.gif) !important;
- 	background-size: cover;
+#chat [data-cid^="4123271-"] i.bdg, #user-rollover.id-4123271 i.bdg, #chat .id-4123271 i.bdg {
+    background: url('http://chilloutmusic.fm/img/theme/Icons/3292657.gif') !important;
+    background-size: cover;
 }
 
-#chat-messages .id-4123271 .badge-box i.bdg {
-	background-image: url(http://chilloutmusic.fm/img/theme/Icons/3292657.gif);
-	background-size: cover;
+#chat [data-cid^="4175902-"] i.bdg, #user-rollover.id-4175902 i.bdg, #chat .id-4175902 i.bdg {
+    background: url('http://i.imgur.com/HQmru6m.gif') !important;
+    background-size: cover;
 }
+
 
 /*.room-background {
     background: url(https://cdn.radiant.dj/rcs/radiant.music.nov1.jpg) no-repeat !important;
