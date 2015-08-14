@@ -3,7 +3,26 @@
     background-size: cover;
 }
 
+/* CamperBot */
+#chat [data-cid^="9581769-"] i.bdg, #user-rollover.id-9581769 i.bdg, #chat .id-9581769 i.bdg {
+    background: url('http://i.imgur.com/0ZfSOsS.jpg') !important;
+    background-size: cover;
+}
+
+/* Majeye */
 #chat [data-cid^="4175902-"] i.bdg, #user-rollover.id-4175902 i.bdg, #chat .id-4175902 i.bdg {
     background: url('http://i.imgur.com/HQmru6m.gif') !important;
+    background-size: cover;
+}
+
+/* reCursive */
+#chat [data-cid^="9676318-"] i.bdg, #user-rollover.id-9676318 i.bdg, #chat .id-9676318 i.bdg {
+    background: url('http://i.imgur.com/OZO0ZOO.gif') !important;
+    background-size: cover;
+}
+
+/* KrisVos130 */
+#chat [data-cid^="4126775-"] i.bdg, #user-rollover.id-4126775 i.bdg, #chat .id-4126775 i.bdg {
+    background: url('http://i.imgur.com/pTM9Mx9.png') !important;
     background-size: cover;
 }
