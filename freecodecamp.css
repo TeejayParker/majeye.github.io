@@ -46,6 +46,12 @@
     background-size: cover;
 }
 
+/* dannyfritz */
+#chat [data-cid^="9219233-"] i.bdg, #user-rollover.id-9219233 i.bdg, #chat .id-9219233 i.bdg {
+    background: url('https://i.imgur.com/GPEYaQY.gif') !important;
+    background-size: cover;
+}
+
 /* Random Chat Stuff */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
