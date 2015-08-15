@@ -285,8 +285,8 @@ animate: pulse 2s infinite;
 @-webkit-keyframes pulse {
 from { -webkit-transform: scale(1, 1);
   transform: scale(1, 1); }
-50% { -webkit-transform: scale(0.9, 0.9);
-  transform: scale(0.9, 0.9);
+50% { -webkit-transform: scale(1.15, 1.15);
+  transform: scale(1.15, 1.15);
   }
 }
 
