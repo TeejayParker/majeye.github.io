@@ -10,6 +10,12 @@
     background-size: cover;
 }
 
+/* FreeCodeCamp */
+#chat [data-cid^="8990321-"] i.bdg, #user-rollover.id-8990321 i.bdg, #chat .id-8990321 i.bdg {
+    background: url('http://i.imgur.com/g6agrsM.gif') !important;
+    background-size: cover;
+}
+
 /* reCursive */
 #chat [data-cid^="9676318-"] i.bdg, #user-rollover.id-9676318 i.bdg, #chat .id-9676318 i.bdg {
     background: url('http://i.imgur.com/ZTJxqby.gif') !important;
