@@ -277,16 +277,16 @@ animation:rainbow 1s infinite;
 }
 
 /* reCursive */
-.id-9676318 i.bdg:hover, .id-9676318 i.icon:hover {
+.id-9676318 i.icon:hover {
 -webkit-animation: pulse 2s infinite;
-animate: pulse 2s infinite;
+animation: pulse 2s infinite;
 }
 
 @-webkit-keyframes pulse {
 from { -webkit-transform: scale(1, 1);
   transform: scale(1, 1); }
-50% { -webkit-transform: scale(1.15, 1.15);
-  transform: scale(1.15, 1.15);
+50% { -webkit-transform: scale(1.25, 1.25);
+  transform: scale(1.25, 1.25);
   }
 }
 
