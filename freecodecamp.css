@@ -34,6 +34,12 @@
     background-size: cover;
 }
 
+/* AnecdotalEvidence */
+#chat [data-cid^="9875171-"] i.bdg, #user-rollover.id-9875171 i.bdg, #chat .id-9875171 i.bdg {
+    background: url('http://i.imgur.com/n4tFGN9.gif') !important;
+    background-size: cover;
+}
+
 /* Random Chat Stuff */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
