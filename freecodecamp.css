@@ -276,11 +276,25 @@ animation:rainbow 1s infinite;
 -webkit-animation: rotate 1s infinite alternate;
 }
 
+/* reCursive */
+.id-9676318 i.bdg:hover, .id-9676318 i.icon:hover {
+-webkit-animation: pulse 2s infinite;
+animate: pulse 2s infinite;
+}
+
+@-webkit-keyframes pulse {
+from { -webkit-transform: scale(1, 1);
+  transform: scale(1, 1); }
+50% { -webkit-transform: scale(0.9, 0.9);
+  transform: scale(0.9, 0.9);
+  }
+}
+
 @-webkit-keyframes rotate {
 from { -webkit-transform: rotate(0deg);
-	transform: rotate(0deg); }
+  transform: rotate(0deg); }
 to {
-	-webkit-transform: rotate(360deg);
-	transform: rotate(360deg);
-	}
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+  }
 }
