@@ -54,6 +54,12 @@
     background-size: cover;
 }
 
+/* kurzninja */
+#chat [data-cid^="10137058-"] i.bdg, #user-rollover.id-10137058 i.bdg, #chat .id-10137058 i.bdg {
+    background: url('http://i.imgur.com/M0UjBXB.gif') !important;
+    background-size: cover;
+}
+
 /* Random Chat Stuff */
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
