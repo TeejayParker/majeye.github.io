@@ -54,12 +54,6 @@
     background-size: cover;
 }
 
-/* kurzninja */
-#chat [data-cid^="10137058-"] i.bdg, #user-rollover.id-10137058 i.bdg, #chat .id-10137058 i.bdg {
-    background: url('http://i.imgur.com/HItyCRR.jpg') !important;
-    background-size: cover;
-}
-
 /* Nekkrolepsy */
 #chat [data-cid^="5821747-"] i.bdg, #user-rollover.id-5821747 i.bdg, #chat .id-5821747 i.bdg {
     background: url('http://i.imgur.com/f7kPHR3.gif') !important;
