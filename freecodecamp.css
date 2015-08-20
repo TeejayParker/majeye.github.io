@@ -20,7 +20,7 @@
 #chat [data-cid^="9676318-"] i.bdg, #user-rollover.id-9676318 i.bdg, #chat .id-9676318 i.bdg {
     /* backup gif */
     /*background: url('http://i.imgur.com/ZTJxqby.gif') !important;*/
-    background: url('http://i.imgur.com/2RhDO6u.gif') !important;    
+    background: url('http://i.imgur.com/2RhDO6u.gif') !important;
     background-size: cover;
 }
 
@@ -63,6 +63,12 @@
 /* kurzninja */
 #chat [data-cid^="10137058-"] i.bdg, #user-rollover.id-10137058 i.bdg, #chat .id-10137058 i.bdg {
     background: url('http://i.imgur.com/HItyCRR.jpg') !important;
+    background-size: cover;
+}
+
+/* CptObvious21 */
+#chat [data-cid^="5087495-"] i.bdg, #user-rollover.id-5087495 i.bdg, #chat .id-5087495 i.bdg {
+    background: url('http://i.imgur.com/TTISV65.gif') !important;
     background-size: cover;
 }
 
