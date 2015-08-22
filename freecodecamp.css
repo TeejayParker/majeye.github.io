@@ -18,9 +18,10 @@
 
 /* reCursive */
 #chat [data-cid^="9676318-"] i.bdg, #user-rollover.id-9676318 i.bdg, #chat .id-9676318 i.bdg {
-    /* backup gif */
+    /* backup gifs */
     /*background: url('http://i.imgur.com/ZTJxqby.gif') !important;*/
-    background: url('http://i.imgur.com/2RhDO6u.gif') !important;
+    /*background: url('http://i.imgur.com/2RhDO6u.gif') !important;*/
+    background: url('http://i.imgur.com/bAHAG8T.gif') !important;
     background-size: cover;
 }
 
