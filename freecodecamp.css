@@ -45,7 +45,8 @@
 
 /* AnecdotalEvidence */
 #chat [data-cid^="9875171-"] i.bdg, #user-rollover.id-9875171 i.bdg, #chat .id-9875171 i.bdg {
-    background: url('http://i.imgur.com/n4tFGN9.gif') !important;
+    /*background: url('http://i.imgur.com/n4tFGN9.gif') !important;*/
+    background: url('http://i.imgur.com/iDllSKR.gif') !important;
     background-size: cover;
 }
 
